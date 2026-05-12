@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Valerydolce
-- 👀 I’m interested in: DevOps, DevSecOps, Cloud Computing, IT Systems Engineering
-- 🌱 I’m currently tailoring my DevSecOps Skills
+- 👋 Hi, I’m @Valerydolce - IT Architect
+- 👀 I’m interested in: DevOps, DevSecOps, Digital Transformation, IT Systems Engineering
+- 🌱 I’m currently tailoring my Cybersecurity Skills
 - I teach DevOps and DevSecOps in both french and English, Want to learn? You know what to do.
 - 💞️ Formateur en NTIC. Vous voulez vous former? Contactez moi a mon adresse email.
 - 📫 How to reach me: psimo@yvalcorp.com
